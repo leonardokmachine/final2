@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(69, 187, 207);
+}
+h2{
+    color: white;
+}
+h3{
+    color: rgb(184, 50, 50);
+    text-align: center;
+    touch-action: cross-slide-x;
+}
+h4{
+    background-color: rgb(88, 130, 245);
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 2px,2px,2px;
+}
+em{
+    color: rgb(219, 38, 219);
+}
+.col-md-3{
+    background-color: rgb(248, 232, 85);
+
+}
